@@ -1,2 +1,2 @@
-# ALURAprimeirapaginawebPT3
-Projeto do curso "HTML5 e CSS3 parte 2: Posicionamento, listas e navegação" da Alura
+## HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+Projeto do curso acima que fiz na plataforma da Alura
